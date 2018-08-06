@@ -1,3 +1,4 @@
+数字签名证书校验方法
 ABSTRACT
 --------
 verify_sigs contains library functions to compute and validate hashes
